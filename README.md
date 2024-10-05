@@ -15,7 +15,7 @@ Alura Challenge | Oracle Next Education | Autor: Román Ríos
 
 Extra: Selector Español / Inglés
 
-## GitHub Pages:
+## Acceder al sitio en GitHub Pages:
 
 https://romanrios.github.io/challenge-one-portafolio-latam/
 
